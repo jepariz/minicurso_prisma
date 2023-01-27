@@ -5,11 +5,11 @@ Minicurso que fiz no módulo 5 da Driven.
 ***
 ## Índice
 
-[1. O que é uma ORM e como configurar o Prisma](#o-que-é-uma-orm-e-como-configurar-o-prisma)
+[1. O que é uma ORM e como configurar o Prisma](#1-o-que-é-uma-orm-e-como-configurar-o-prisma)
 
-[2. Nossa Primeira consulta findMany e findFirst](#nossa-primeira-consulta-findmany-e-findfirst)
+[2. Nossa Primeira consulta findMany e findFirst](#2-nossa-primeira-consulta-findmany-e-findfirst)
 
-[3. Inserir dados com create](#nossa-primeira-consulta-findmany-e-findfirst)
+[3. Inserir dados com create](#3-inserir-dados-com-create)
 
 [4. Inserir ou atualizar - o poderoso upsert](#4-inserir-ou-alterar-com-upsert)
 
